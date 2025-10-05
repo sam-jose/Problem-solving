@@ -1,2 +1,3 @@
-Hi -> Hi
-Jo
+--- date : 05-10-2025 ---
+
+set up github

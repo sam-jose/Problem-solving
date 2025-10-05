@@ -1,1 +1,12 @@
 Hi
+git remote set-url origin https://github.com/<your-username>/<repo-name>.git
+git remote set-url origin https://github.com/sam-jose/Problem-solving.git
+
+git remote set-url origin https://github.com/<your-username>/<repo-name>.git
+git config --global credential.helper store
+git push
+
+
+remote: Permission to sam-jose/Problem-solving.git denied to SamuelRobart.
+fatal: unable to access 'https://github.com/sam-jose/Problem-solving.git/': The requested URL returned error: 403
+PS D:\Repository\Problem-solving> 
